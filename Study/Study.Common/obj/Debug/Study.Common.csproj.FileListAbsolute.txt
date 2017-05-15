@@ -1,0 +1,5 @@
+E:\Project\CsPro\Study\Study.Common\bin\Debug\Study.Common.dll
+E:\Project\CsPro\Study\Study.Common\bin\Debug\Study.Common.pdb
+E:\Project\CsPro\Study\Study.Common\obj\Debug\Study.Common.csprojResolveAssemblyReference.cache
+E:\Project\CsPro\Study\Study.Common\obj\Debug\Study.Common.dll
+E:\Project\CsPro\Study\Study.Common\obj\Debug\Study.Common.pdb
