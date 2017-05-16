@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Study.Aop
 {
-    public class UserProcessor : IUserProcessor
+    public class UserProcessor : MarshalByRefObject, IUserProcessor
     {
         public void RegUser(User user)
         {
