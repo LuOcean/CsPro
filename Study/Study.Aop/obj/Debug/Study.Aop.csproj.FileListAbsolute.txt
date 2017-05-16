@@ -1,0 +1,5 @@
+E:\Project\CsPro\Study\Study.Aop\bin\Debug\Study.Aop.dll
+E:\Project\CsPro\Study\Study.Aop\bin\Debug\Study.Aop.pdb
+E:\Project\CsPro\Study\Study.Aop\obj\Debug\Study.Aop.csprojResolveAssemblyReference.cache
+E:\Project\CsPro\Study\Study.Aop\obj\Debug\Study.Aop.dll
+E:\Project\CsPro\Study\Study.Aop\obj\Debug\Study.Aop.pdb
