@@ -1,8 +1,8 @@
 E:\Project\CsPro\Study\Study.TestPro\bin\Debug\Study.TestPro.exe.config
 E:\Project\CsPro\Study\Study.TestPro\bin\Debug\Study.TestPro.exe
 E:\Project\CsPro\Study\Study.TestPro\bin\Debug\Study.TestPro.pdb
+E:\Project\CsPro\Study\Study.TestPro\bin\Debug\Study.Common.dll
+E:\Project\CsPro\Study\Study.TestPro\bin\Debug\Study.Common.pdb
 E:\Project\CsPro\Study\Study.TestPro\obj\Debug\Study.TestPro.csprojResolveAssemblyReference.cache
 E:\Project\CsPro\Study\Study.TestPro\obj\Debug\Study.TestPro.exe
 E:\Project\CsPro\Study\Study.TestPro\obj\Debug\Study.TestPro.pdb
-E:\Project\CsPro\Study\Study.TestPro\bin\Debug\Study.Common.dll
-E:\Project\CsPro\Study\Study.TestPro\bin\Debug\Study.Common.pdb

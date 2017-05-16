@@ -8,5 +8,8 @@ namespace Study.Aop
 {
     public class MyInterceptor
     {
+        private string id;
+
+
     }
 }

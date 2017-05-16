@@ -41,10 +41,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IUserProcessor.cs" />
+    <Compile Include="MyInterceptor.cs" />
     <Compile Include="MyRealProxy.cs" />
     <Compile Include="TransparentProxy.cs" />
     <Compile Include="User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserHandler.cs" />
     <Compile Include="UserProcessor.cs" />
     <Compile Include="UserProcessorDecorator.cs" />
   </ItemGroup>

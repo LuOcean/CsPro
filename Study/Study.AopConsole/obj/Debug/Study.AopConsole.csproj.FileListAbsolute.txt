@@ -1,8 +1,8 @@
 E:\Project\CsPro\Study\Study.AopConsole\bin\Debug\Study.AopConsole.exe.config
 E:\Project\CsPro\Study\Study.AopConsole\bin\Debug\Study.AopConsole.exe
 E:\Project\CsPro\Study\Study.AopConsole\bin\Debug\Study.AopConsole.pdb
+E:\Project\CsPro\Study\Study.AopConsole\bin\Debug\Study.Aop.dll
+E:\Project\CsPro\Study\Study.AopConsole\bin\Debug\Study.Aop.pdb
 E:\Project\CsPro\Study\Study.AopConsole\obj\Debug\Study.AopConsole.csprojResolveAssemblyReference.cache
 E:\Project\CsPro\Study\Study.AopConsole\obj\Debug\Study.AopConsole.exe
 E:\Project\CsPro\Study\Study.AopConsole\obj\Debug\Study.AopConsole.pdb
-E:\Project\CsPro\Study\Study.AopConsole\bin\Debug\Study.Aop.dll
-E:\Project\CsPro\Study\Study.AopConsole\bin\Debug\Study.Aop.pdb
